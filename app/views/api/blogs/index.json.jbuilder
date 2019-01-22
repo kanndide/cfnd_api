@@ -1,0 +1,1 @@
+json.partial! 'blog', collection: @blogs, as: :blog
